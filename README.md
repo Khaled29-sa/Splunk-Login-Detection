@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</div>
+
+<br>
 # Windows Authentication Monitoring & Suspicious Login Detection Using Splunk
 
 ## Project Overview
