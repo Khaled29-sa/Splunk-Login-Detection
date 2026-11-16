@@ -1,9 +1,11 @@
+# Windows Authentication Monitoring & Suspicious Login Detection Using Splunk
+
+
 <div align="center">
   <img src="Windows Authentication Monitoring & Suspicious Login Detection.png" width="100%" alt="Banner">
 </div>
 
 <br>
-# Windows Authentication Monitoring & Suspicious Login Detection Using Splunk
 
 ## Project Overview
 This project demonstrates a Security Operations Center (SOC) monitoring and investigation workflow using Splunk Enterprise. It focuses on analyzing Windows authentication events, identifying suspicious login patterns, investigating potential Password Spraying activity, and creating detection alerts.
