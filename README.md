@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner">
+  <img src="Windows Authentication Monitoring & Suspicious Login Detection.png" width="100%" alt="Banner">
 </div>
 
 <br>
